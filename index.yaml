@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  vasu-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-30T04:19:17.507383554Z"
+    description: A Helm chart for Kubernetes
+    digest: 291f9ea97762bdafecfb5d540dba4e74cff3b25fbb6bb13fc09feb12c11836f4
+    name: vasu-app
+    type: application
+    urls:
+    - vasu-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-30T04:19:17.506034089Z"
